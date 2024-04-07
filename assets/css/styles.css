@@ -47,6 +47,7 @@ p {
   display: flex;
   flex-wrap: wrap;
   text-align: center;
+  user-select: none;
 }
 
 .calc__btn {
